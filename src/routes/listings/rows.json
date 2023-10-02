@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Fertilizer",
+    "views": 120,
+    "matches": 45,
+    "offers": 15,
+    "qty": 100,
+    "price": 25.99
+  },
+  {
+    "name": "Pesticides",
+    "views": 90,
+    "matches": 30,
+    "offers": 10,
+    "qty": 500,
+    "price": 12.49
+  },
+  {
+    "name": "Seeds",
+    "views": 150,
+    "matches": 60,
+    "offers": 20,
+    "qty": 200,
+    "price": 35.75
+  },
+  {
+    "name": "Irrigation Systems",
+    "views": 80,
+    "matches": 25,
+    "offers": 8,
+    "qty": 50,
+    "price": 79.99
+  },
+  {
+    "name": "Tractors",
+    "views": 70,
+    "matches": 20,
+    "offers": 5,
+    "qty": 10,
+    "price": 29.99
+  },
+  {
+    "name": "Livestock Feed",
+    "views": 110,
+    "matches": 40,
+    "offers": 12,
+    "qty": 50,
+    "price": 18.99
+  },
+  {
+    "name": "Farm Tools",
+    "views": 100,
+    "matches": 35,
+    "offers": 10,
+    "qty": 300,
+    "price": 9.99
+  },
+  {
+    "name": "Drones",
+    "views": 65,
+    "matches": 15,
+    "offers": 7,
+    "qty": 20,
+    "price": 59.99
+  },
+  {
+    "name": "Farm Machinery",
+    "views": 75,
+    "matches": 22,
+    "offers": 6,
+    "qty": 40,
+    "price": 19.99
+  },
+  {
+    "name": "Soil Testing Kits",
+    "views": 55,
+    "matches": 18,
+    "offers": 9,
+    "qty": 100,
+    "price": 49.95
+  },
+  {
+    "name": "Organic Fertilizers",
+    "views": 95,
+    "matches": 32,
+    "offers": 11,
+    "qty": 750,
+    "price": 29.99
+  },
+  {
+    "name": "Gardening Supplies",
+    "views": 85,
+    "matches": 28,
+    "offers": 8,
+    "qty": 400,
+    "price": 14.99
+  },
+  {
+    "name": "Animal Health Products",
+    "views": 105,
+    "matches": 38,
+    "offers": 13,
+    "qty": 600,
+    "price": 22.50
+  },
+  {
+    "name": "Crop Protection",
+    "views": 88,
+    "matches": 31,
+    "offers": 9,
+    "qty": 300,
+    "price": 19.75
+  },
+  {
+    "name": "Farm Safety Gear",
+    "views": 78,
+    "matches": 24,
+    "offers": 7,
+    "qty": 200,
+    "price": 8.99
+  },
+  {
+    "name": "Farm Software",
+    "views": 68,
+    "matches": 19,
+    "offers": 6,
+    "qty": 50,
+    "price": 129.99
+  },
+  {
+    "name": "Greenhouse Supplies",
+    "views": 92,
+    "matches": 34,
+    "offers": 10,
+    "qty": 150,
+    "price": 39.95
+  },
+  {
+    "name": "Farm Storage Solutions",
+    "views": 82,
+    "matches": 27,
+    "offers": 8,
+    "qty": 100,
+    "price": 69.99
+  },
+  {
+    "name": "Agricultural Chemicals",
+    "views": 72,
+    "matches": 21,
+    "offers": 6,
+    "qty": 250,
+    "price": 17.50
+  },
+  {
+    "name": "Livestock Equipment",
+    "views": 102,
+    "matches": 37,
+    "offers": 11,
+    "qty": 300,
+    "price": 299.99
+  }
+]

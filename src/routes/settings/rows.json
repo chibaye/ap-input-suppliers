@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Fertilizer",
+    "views": 120,
+    "matches": 45,
+    "offers": 15
+  },
+  {
+    "name": "Pesticides",
+    "views": 90,
+    "matches": 30,
+    "offers": 10
+  },
+  {
+    "name": "Seeds",
+    "views": 150,
+    "matches": 60,
+    "offers": 20
+  },
+  {
+    "name": "Irrigation Systems",
+    "views": 80,
+    "matches": 25,
+    "offers": 8
+  },
+  {
+    "name": "Tractors",
+    "views": 70,
+    "matches": 20,
+    "offers": 5
+  },
+  {
+    "name": "Livestock Feed",
+    "views": 110,
+    "matches": 40,
+    "offers": 12
+  },
+  {
+    "name": "Farm Tools",
+    "views": 100,
+    "matches": 35,
+    "offers": 10
+  },
+  {
+    "name": "Drones",
+    "views": 65,
+    "matches": 15,
+    "offers": 7
+  },
+  {
+    "name": "Farm Machinery",
+    "views": 75,
+    "matches": 22,
+    "offers": 6
+  },
+  {
+    "name": "Soil Testing Kits",
+    "views": 55,
+    "matches": 18,
+    "offers": 9
+  },
+  {
+    "name": "Organic Fertilizers",
+    "views": 95,
+    "matches": 32,
+    "offers": 11
+  },
+  {
+    "name": "Gardening Supplies",
+    "views": 85,
+    "matches": 28,
+    "offers": 8
+  },
+  {
+    "name": "Animal Health Products",
+    "views": 105,
+    "matches": 38,
+    "offers": 13
+  },
+  {
+    "name": "Crop Protection",
+    "views": 88,
+    "matches": 31,
+    "offers": 9
+  },
+  {
+    "name": "Farm Safety Gear",
+    "views": 78,
+    "matches": 24,
+    "offers": 7
+  },
+  {
+    "name": "Farm Software",
+    "views": 68,
+    "matches": 19,
+    "offers": 6
+  },
+  {
+    "name": "Greenhouse Supplies",
+    "views": 92,
+    "matches": 34,
+    "offers": 10
+  },
+  {
+    "name": "Farm Storage Solutions",
+    "views": 82,
+    "matches": 27,
+    "offers": 8
+  },
+  {
+    "name": "Agricultural Chemicals",
+    "views": 72,
+    "matches": 21,
+    "offers": 6
+  },
+  {
+    "name": "Livestock Equipment",
+    "views": 102,
+    "matches": 37,
+    "offers": 11
+  }
+]

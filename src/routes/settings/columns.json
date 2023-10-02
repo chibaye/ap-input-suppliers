@@ -1,0 +1,18 @@
+[
+  {
+    "id": "name",
+    "label": "Name"
+  },
+  {
+    "id": "views",
+    "label": "Views"
+  },
+  {
+    "id": "matches",
+    "label": "Matches"
+  },
+  {
+    "id": "offers",
+    "label": "Offers"
+  }
+]

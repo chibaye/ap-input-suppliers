@@ -1,0 +1,34 @@
+[
+  {
+    "href":"/",
+    "label":"Overview"
+  },
+  {
+    "href":"/listings",
+    "label":"Listings"
+  },
+  {
+    "href":"/matches",
+    "label":"Matches"
+  },
+  {
+    "href":"/offers",
+    "label":"Offers"
+  },
+  {
+    "href":"/messaging",
+    "label":"Messaging"
+  },
+  {
+    "href":"/agro-dealers",
+    "label":"AgroDealers"
+  },
+  {
+    "href":"/contacts",
+    "label":"Contacts"
+  },
+  {
+    "href":"/settings",
+    "label":"Settings"
+  }
+]

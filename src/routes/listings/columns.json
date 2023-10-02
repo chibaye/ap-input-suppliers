@@ -1,0 +1,26 @@
+[
+  {
+    "id": "name",
+    "label": "Name"
+  },
+  {
+    "id": "qty",
+    "label": "Qty"
+  },
+  {
+    "id": "price",
+    "label": "Price"
+  },
+  {
+    "id": "views",
+    "label": "Views"
+  },
+  {
+    "id": "matches",
+    "label": "Matches"
+  },
+  {
+    "id": "offers",
+    "label": "Offers"
+  }
+]
